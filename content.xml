@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260418094109A6Q4PO</value>
+    <value>20260419174244D1MWUC</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260418094109MWHT1J</value>
+    <value>20260419174244ITH9QQ</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -1391,6 +1391,69 @@
 </table>
 <p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
           <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776613249885-cc34441nt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de Evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776613249885-cc34441nt</odePageId>
+      <odeBlockId>block-1776613313103-43pm7bxar</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776613249885-cc34441nt</odePageId>
+          <odeBlockId>block-1776613313103-43pm7bxar</odeBlockId>
+          <odeIdeviceId>idevice-1776613313101-0im208e7t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Rúbrica de evaluación,</strong> para valorar los productos finales del alumnado (infografía y vídeo/podcast), teniendo en cuenta aspectos como la corrección de los cálculos, la claridad en la explicación y la presentación.</li>
+<li><strong>Observación directa</strong>, durante el desarrollo de las actividades, para evaluar la participación, el trabajo en grupo y el uso adecuado de estrategias matemáticas.</li>
+<li><strong>Lista de cotejo</strong>, que se utilizará para la autoevaluación docente, permitiendo valorar el desarrollo de la situación de aprendizaje y su adecuación a los objetivos planteados.</li>
+<li><strong>Diana de evaluación</strong>, como instrumento de autoevaluación del alumnado, que facilitará la reflexión sobre su propio aprendizaje y el grado de consecución de los objetivos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776613313101-0im208e7t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Rúbrica de evaluación,</strong> para valorar los productos finales del alumnado (infografía y vídeo/podcast), teniendo en cuenta aspectos como la corrección de los cálculos, la claridad en la explicación y la presentación.</li>\n<li><strong>Observación directa</strong>, durante el desarrollo de las actividades, para evaluar la participación, el trabajo en grupo y el uso adecuado de estrategias matemáticas.</li>\n<li><strong>Lista de cotejo</strong>, que se utilizará para la autoevaluación docente, permitiendo valorar el desarrollo de la situación de aprendizaje y su adecuación a los objetivos planteados.</li>\n<li><strong>Diana de evaluación</strong>, como instrumento de autoevaluación del alumnado, que facilitará la reflexión sobre su propio aprendizaje y el grado de consecución de los objetivos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
